@@ -64,7 +64,6 @@
                 <a href="img/Makkah.jpg" class="ui-btn">Makkah Guide Map</a>
                 <a href="locatorB.html?location=madinah" class="ui-btn ui-icon-location ui-btn-icon-right">Madinah Navigator </a>
                 <a href="img/Madinah.jpg" class="ui-btn">Madinah Guide Map</a>
-                <a href="locatorB.html?location=home" class="ui-btn ui-icon-location ui-btn-icon-right">Home Navigator</a>
                 <a href="#" class="ui-btn ui-icon-location ui-btn-icon-right">Mark my hotel/tent*</a>
                 <a href="#" class="ui-btn">View hotel on map*</a>
             </div>

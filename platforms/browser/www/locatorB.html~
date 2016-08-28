@@ -10,21 +10,13 @@
 
                 position: relative; 
             }
-            .map-point2 {
-                width: 17px;
-                height: 21px;
-                background-image: url("img/A-icon-locator.png");                            
-                position: absolute; 
-            }        
-            
             .map-point {
                 width: 10px;
                 height: 10px;
                 border-radius: 4px;
-                background-color: #00f;
+                background-color: #f00;
                 position: absolute; 
-            }             
-            
+            }            
             .realtime-point {
                 width: 10px;
                 height: 10px;

@@ -39,6 +39,8 @@ var lat, lng,
 
 myLocs.push(new Location("makkah", new Point(21.419870, 39.820454), new Point(21.420216, 39.829445), new Point(21.429524, 39.828780), new Point(21.428366, 39.819982), "img/Makkahgps.jpg"));
 myLocs.push(new Location("madinah", new Point(24.465410, 39.607118), new Point(24.465492, 39.614615), new Point(24.471262, 39.614655), new Point(24.471184, 39.607139), "img/Madinah4.png"));
+myLocs.push(new Location("home", new Point(34.880748, -82.386814), new Point(34.880826, -82.386722), new Point(34.880937, -82.386865), new Point(34.880869, -82.386964), "img/Home2.png"));
+
 function init(pLocation) {
     var debug = getQueryParameter("debug");
     if (debug  && debug===1)
